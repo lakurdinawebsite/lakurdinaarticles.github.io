@@ -1,0 +1,9 @@
+[submodule "themes/silhouette-hugo"]
+	path = themes/silhouette-hugo
+	url = https://github.com/mattbutton/silhouette-hugo
+[submodule "themes/hugo-theme-cleanwhite"]
+	path = themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
