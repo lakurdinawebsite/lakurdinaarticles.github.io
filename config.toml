@@ -1,3 +1,26 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "https://lakurdinaarticles.github.io/"
+title = "Lakurdina Articles"
+author = "Lakurdina"
+copyright = "Copyright © 2022, Lakurdina; all rights reserved."
+canonifyurls = true
+paginate = 3
+theme = "silhouette-hugo"
+
+pygmentsUseClasses=true
+
+#disqusShortname = ""
+#googleAnalytics = ""
+
+[params]
+    dateform        = '2 Jan 2006'
+    dateformShort   = '2 Jan'
+    dateformNum     = '2006-01-02'
+    dateformNumTime = '2006-01-02 15:04 -0700'
+    author = "Lakurdina Articles"
+    introDescription = "This is Lakurdina Articles: Thought-provoking writing on fascinating subjects. Here I publish articles from a range of one-off and regular contributors on subjects that interest them and me."
+    contentSharing = "I'm happy for you to share content on this site, but please provide attribution."
+
+[taxonomies]
+  category = 'categories'
+  authors = 'authors'
+  tag = 'tags'
