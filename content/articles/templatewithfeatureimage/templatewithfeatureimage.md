@@ -15,7 +15,7 @@ categories = [
     "All Articles",
 ]
 menu = "main"
-featureImage = "images/hugo-logo.png"
+featureImage = "images/template/hugo-logo.png"
 author = "Goldilocks"
 draft = "true"
 +++
