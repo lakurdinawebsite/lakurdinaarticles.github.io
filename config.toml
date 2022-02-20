@@ -5,6 +5,7 @@ copyright = "Copyright © 2022, Lakurdina; all rights reserved."
 canonifyurls = true
 paginate = 3
 theme = "silhouette-hugo"
+enableGitInfo = true
 
 pygmentsUseClasses=true
 
@@ -24,3 +25,11 @@ pygmentsUseClasses=true
   category = 'categories'
   authors = 'authors'
   tag = 'tags'
+
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+

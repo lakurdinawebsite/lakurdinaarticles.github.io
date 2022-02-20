@@ -1,0 +1,7 @@
+{{ $date := .Date.Format ( .Site.Params.date_format) }}
+{{ $lastmod := .Lastmod.Format ( .Site.Params.lastmod_format) }}
+
+
+{{ if ne $lastmod $date }}
+    <span class="date-info italic"> <br>- edited on {{ $lastmod }}</span>
+{{ end }}
