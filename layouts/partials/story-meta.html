@@ -1,0 +1,6 @@
+<div class="mb-3">
+    <small>
+        <strong>By {{ if .Params.Author }}{{ .Params.Author }}{{ else }}{{ .Site.Params.Author }}{{ end }}</strong>&nbsp;
+            {{ .Date.Format "2 January 2006" }}
+    </small>
+</div>
