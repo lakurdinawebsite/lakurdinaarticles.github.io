@@ -13,6 +13,7 @@ pygmentsUseClasses=true
 #googleAnalytics = ""
 
 [params]
+    mainSections = ["articles", ]
     dateform        = '2 Jan 2006'
     dateformShort   = '2 Jan'
     dateformNum     = '2006-01-02'

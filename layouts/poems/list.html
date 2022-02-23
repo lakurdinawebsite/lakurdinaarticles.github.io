@@ -87,7 +87,6 @@
       {{ range $paginator.Pages }}
       <article class="post">
         <a class="title" href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
-        {{ partial "post-meta" .  }}
         <div>
             {{ .Summary }}
         </div>

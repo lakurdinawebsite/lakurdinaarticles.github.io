@@ -1,18 +1,15 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About Lakurdina Articles"
+date = "2022-02-22"
 menu = "main"
+featureImage = "images/about.jpg"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Lakurdina Articles is Lakurdina's main articles site. Here you will find articles on a wide variety of topics, from art and music through to astrophysics and organic chemistry, as well as poems and short stories.  
 
-It makes use of a variety of open source projects including:
+This site relies heavily on work from contributors. We have a small number of regular contributors, but if you would like to provide content of any description that is also welcomed. For more information, please visit our [contribute](https://articles.lakurdina.com/contribute) page.  
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+***Please note that this website is a work in progress, and the full range of articles, poems and stories is not yet present. If you wish to help us reach our goal, please consider contributing.***
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
 
