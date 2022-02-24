@@ -2,7 +2,7 @@
     {{ if .IsHome }}
     <h2 class="mt-4"><a href='{{ $.Site.BaseURL}}tags/featured/' style="text-decoration: none;color: #222;">Featured</a></h2>
     {{ else }}
-        <h2>  &nbsp; {{ .Site.Params.Author }}</h2>
+        <h2> {{ .Site.Params.Author }}</h2>
         <div>
             {{ .Site.Params.IntroDescription }}
         </div>
