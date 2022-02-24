@@ -73,6 +73,18 @@
                 {{ end }}
               {{ end }}
             {{ end }}
+
+            {{ if eq .Type "authors" }}
+              {{ $title := urlize .Title }}
+              {{ with .Site.Taxonomies.authors }}
+                {{ range $name, $taxonomy := . }}
+                  {{ $term := urlize $name }}
+                  {{ if eq $term $title }}
+                    {{ $taxonomy.Count }} Post
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
         </div>
     </header>
   {{ end }}
