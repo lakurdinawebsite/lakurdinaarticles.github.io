@@ -1,5 +1,5 @@
 ---
-title: "Nostalgia"
+title: "Nostalgia3"
 description: 
 date: 2022-02-23T21:11:08Z
 expiryDate:
@@ -19,9 +19,10 @@ series:
 slug:
 type:
 url:
+article: true
 categories:
   - All Content
-  - Poems
+  - Articles
 tags:
   - Surreal
 authors:

@@ -19,6 +19,7 @@ series:
 slug:
 type:
 url:
+poem: true
 categories:
   - All Content
   - Poems

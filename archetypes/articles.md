@@ -19,6 +19,7 @@ series:
 slug:
 type:
 url:
+article: true
 categories:
   - All Content
 tags:

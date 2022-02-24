@@ -87,7 +87,15 @@
       {{ range $paginator.Pages }}
       <article class="post">
         <a class="title" href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
-        {{ partial "post-meta" .  }}
+        {{ if isset .Params "article" }}
+          {{ partial "post-meta" .  }}
+        {{ else if isset .Params "poem" }}
+          {{ partial "poem-meta" .  }}
+        {{ else if isset .Params "story" }}
+          {{ partial "story-meta" .  }}
+        {{ else }}
+          {{ partial "other-meta" .  }}
+        {{ end }}
         <div>
             {{ .Summary }}
         </div>
