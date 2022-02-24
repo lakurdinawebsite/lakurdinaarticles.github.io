@@ -22,6 +22,7 @@ url:
 story: true
 categories:
   - All Content
+  - Stories
 tags:
   - Untagged
 authors:

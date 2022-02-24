@@ -22,6 +22,7 @@ url:
 poem: true
 categories:
   - All Content
+  - Poems
 tags:
   - Untagged
 authors:

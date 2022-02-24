@@ -22,6 +22,7 @@ url:
 article: true
 categories:
   - All Content
+  - Articles
 tags:
   - Untagged
 authors:

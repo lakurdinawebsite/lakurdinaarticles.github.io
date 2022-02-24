@@ -56,7 +56,7 @@
                 {{ range $name, $taxonomy := . }}
                   {{ $term := urlize $name }}
                   {{ if eq $term $title }}
-                    A {{ $taxonomy.Count }}-Article Collection
+                    A {{ $taxonomy.Count }}-Post Collection
                   {{ end }}
                 {{ end }}
               {{ end }}
@@ -68,7 +68,7 @@
                 {{ range $name, $taxonomy := . }}
                   {{ $term := urlize $name }}
                   {{ if eq $term $title }}
-                    A {{ $taxonomy.Count }}-Article Collection
+                    A {{ $taxonomy.Count }}-Post Collection
                   {{ end }}
                 {{ end }}
               {{ end }}
