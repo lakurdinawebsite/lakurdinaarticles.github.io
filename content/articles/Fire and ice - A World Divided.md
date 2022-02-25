@@ -1,7 +1,7 @@
 ---
-title: "Fire and Ice   a World Divided"
+title: "Fire and Ice - a World Divided"
 description: 
-date: 2022-02-24T01:39:07Z
+date: 2022-02-25T01:39:07Z
 expiryDate:
 lastmod: 
 author: Goldilocks
@@ -10,7 +10,7 @@ menu: main
 aliases:
 draft: true
 headless:
-featured:
+featured: true
 weight:
 keywords:
 toc: [true]
@@ -24,7 +24,10 @@ categories:
   - All Content
   - Articles
 tags:
-  - Untagged
+  - Featured
+  - Current Affairs
+  - Outrage and Offense
+  - Division
 authors:
   - Goldilocks
 featured_image: ""
@@ -35,3 +38,4 @@ videos: ""
 ---
 
 **Insert Lead paragraph here.**
+mega wroht roeth rsaoth osaghreoi foearirhgaonvorang garoea gog reaogneraof reoa gqt aog rot sgoj gaoeqta ajrg oqet jq gajro gq otqrjgr rg qrotqjgj roqjg jrot jqo goajg jqog rjgq 5tqoj tagojg aoet 5qojt ej gtt jtgdo aeoj je oj jtq jgaojgjtg jog tog qeot rqg qj fo

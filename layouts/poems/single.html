@@ -36,7 +36,7 @@
 </header>
 {{ end }}
 {{ define "main" }}
-<div class="container mt-4 post">
+<div class="container mt-4 post" style= "margin: 10 10px;padding: 20px 250px 100px;">
     <h1>{{ .Title }}</h1>
     {{ partial "poem-meta" . }}
 
@@ -46,5 +46,4 @@
 
     {{ template "_internal/disqus.html" . }}
 </div>
-{{ partial "sidebar" . }}
 {{ end }}
