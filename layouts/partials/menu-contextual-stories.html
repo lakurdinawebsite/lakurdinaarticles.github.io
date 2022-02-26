@@ -1,0 +1,21 @@
+<div class="menu-contextual d-print-none d-none d-xl-block">
+  {{- if .Params.toc -}}
+        <h4 class="mt-4">{{ "What's in this Article" }}</h4>
+        <a href="{{ .Permalink }}" class="nav-link" title="{{ .Title }}">{{ .Title }}</a>
+          {{ .TableOfContents }}
+  {{ end }}
+
+
+  {{ $related := .Site.RegularPages.Related . | first 15 }}
+
+  {{ with $related }}
+    <div>
+      <h4 class="mt-4">{{ "Related" }}</h4>
+	    {{ range . }}
+            <a href="{{ .RelPermalink }}" class="nav-link">
+              {{- .Title -}}
+            </a>
+	      {{ end }}
+    </div>
+  {{ end }}
+</div>
