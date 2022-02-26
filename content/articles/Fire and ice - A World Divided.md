@@ -28,6 +28,7 @@ tags:
   - Current Affairs
   - Outrage and Offense
   - Division
+  - Modern Life
 authors:
   - Goldilocks
 featured_image: ""
@@ -37,7 +38,3 @@ videos: ""
 
 ---
 
-## Introduction
-oip
-## Gandalf
-Oip2

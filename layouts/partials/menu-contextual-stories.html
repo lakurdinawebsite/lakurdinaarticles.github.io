@@ -1,6 +1,6 @@
 <div class="menu-contextual d-print-none d-none d-xl-block">
   {{- if .Params.toc -}}
-        <h4 class="mt-4">{{ "What's in this Article" }}</h4>
+        <h4 class="mt-4">{{ "Contents" }}</h4>
         <a href="{{ .Permalink }}" class="nav-link" title="{{ .Title }}">{{ .Title }}</a>
           {{ .TableOfContents }}
   {{ end }}
