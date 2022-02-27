@@ -47,6 +47,8 @@
     <div class="mt-4 mb-4 main-content">
         {{ .Content }}
 
+        {{ partial "utterances-comments" . }}
+
         <div class="share-icons d-flex justify-content-center d-print-none">
             {{ partial "share-icons" . }}
         </div>
