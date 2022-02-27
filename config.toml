@@ -9,7 +9,7 @@ enableGitInfo = true
 
 pygmentsUseClasses=true
 
-disqusShortname = "lakurdina"
+disqusShortname = ""
 #googleAnalytics = ""
 
 [params]
