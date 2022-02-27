@@ -27,7 +27,7 @@ tags:
   - Untagged
 authors:
   - Goldilocks
-featured_image: ""
+featureImage: ""
 audio: ""
 images: ""
 videos: ""
