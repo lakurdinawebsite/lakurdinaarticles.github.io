@@ -56,7 +56,11 @@
                 {{ range $name, $taxonomy := . }}
                   {{ $term := urlize $name }}
                   {{ if eq $term $title }}
-                    A {{ $taxonomy.Count }}-Post Collection
+                    {{ if or (eq $taxonomy.Count 8) (eq $taxonomy.Count 11) (eq $taxonomy.Count 18) (eq $taxonomy.Count 80) (eq $taxonomy.Count 81) (eq $taxonomy.Count 82) (eq $taxonomy.Count 83) (eq $taxonomy.Count 84) (eq $taxonomy.Count 85) (eq $taxonomy.Count 86) (eq $taxonomy.Count 87) (eq $taxonomy.Count 88) (eq $taxonomy.Count 89) }}
+                      An {{ $taxonomy.Count }}-Post Collection
+                    {{ else }}
+                      A {{ $taxonomy.Count }}-Post Collection
+                    {{ end }}
                   {{ end }}
                 {{ end }}
               {{ end }}
@@ -68,7 +72,11 @@
                 {{ range $name, $taxonomy := . }}
                   {{ $term := urlize $name }}
                   {{ if eq $term $title }}
-                    A {{ $taxonomy.Count }}-Post Collection
+                    {{ if or (eq $taxonomy.Count 8) (eq $taxonomy.Count 11) (eq $taxonomy.Count 18) (eq $taxonomy.Count 80) (eq $taxonomy.Count 81) (eq $taxonomy.Count 82) (eq $taxonomy.Count 83) (eq $taxonomy.Count 84) (eq $taxonomy.Count 85) (eq $taxonomy.Count 86) (eq $taxonomy.Count 87) (eq $taxonomy.Count 88) (eq $taxonomy.Count 89) }}
+                      An {{ $taxonomy.Count }}-Post Collection
+                    {{ else }}
+                      A {{ $taxonomy.Count }}-Post Collection
+                    {{ end }}
                   {{ end }}
                 {{ end }}
               {{ end }}
@@ -80,7 +88,11 @@
                 {{ range $name, $taxonomy := . }}
                   {{ $term := urlize $name }}
                   {{ if eq $term $title }}
-                    {{ $taxonomy.Count }} Post
+                    {{ if eq $taxonomy.Count 1}}
+                      {{ $taxonomy.Count }} Post
+                    {{ else }}
+                      {{ $taxonomy.Count }} Posts
+                    {{ end }}
                   {{ end }}
                 {{ end }}
               {{ end }}
