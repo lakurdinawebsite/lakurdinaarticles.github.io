@@ -47,7 +47,6 @@
     <div class="mt-4 mb-4 main-content">
         {{ .Content }}
 
-        {{ partial "utterances-comments" . }}
 
         <div class="share-icons d-flex justify-content-center d-print-none">
             {{ partial "share-icons" . }}
@@ -55,6 +54,7 @@
     </div>
 
     {{ template "_internal/disqus.html" . }}
+    {{ partial "utterances-comments" . }}
 
 </div>
 {{ partial "menu-contextual-articles" . }}
