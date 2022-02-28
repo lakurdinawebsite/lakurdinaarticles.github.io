@@ -12,7 +12,7 @@ draft: false
 headless:
 featured: true
 weight:
-keywords:
+keywords: controversies
 toc: [true]
 layout:
 series:
