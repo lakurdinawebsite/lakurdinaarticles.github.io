@@ -19,7 +19,7 @@ disqusShortname = ""
     dateformNum     = '2006-01-02'
     dateformNumTime = '2006-01-02 15:04 -0700'
     author = "Lakurdina Articles"
-    introDescription = "This is Lakurdina Articles: Thought-provoking writing on fascinating subjects. Here I publish articles from a range of one-off and regular contributors on subjects that interest them and me."
+    introDescription = "This is Lakurdina Articles: Thought-provoking writing on fascinating subjects. Here I publish work from a range of one-off and regular contributors on subjects that interest them and me."
     contentSharing = "I'm happy for you to share content on this site, but please provide attribution."
 
 [taxonomies]
