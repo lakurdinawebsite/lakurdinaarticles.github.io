@@ -14,6 +14,7 @@ featured:
 weight:
 keywords:
 toc: [true]
+menu_contextual: true
 layout:
 series:
 slug:
@@ -31,6 +32,7 @@ featureImage: ""
 audio: ""
 images: ""
 videos: ""
+show_reading_time: true
 
 ---
 

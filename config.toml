@@ -73,3 +73,7 @@ pattern = "200601"
 
 
 
+
+[permalinks]
+  articles = '/:sections/:year/:month/:title/'
+

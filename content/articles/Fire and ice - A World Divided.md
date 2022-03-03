@@ -14,6 +14,7 @@ featured: true
 weight:
 keywords: controversies
 toc: [true]
+menu_contextual: true
 layout:
 series:
 slug:

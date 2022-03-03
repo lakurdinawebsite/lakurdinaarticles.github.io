@@ -14,6 +14,7 @@ featured:
 weight:
 keywords:
 toc: [true]
+menu_contextual: true
 layout:
 series:
 slug:

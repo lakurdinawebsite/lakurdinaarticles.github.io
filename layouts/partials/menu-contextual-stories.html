@@ -1,3 +1,4 @@
+{{ if .Params.menu_contextual }}
 <div class="menu-contextual d-print-none d-none d-xl-block">
   {{- if .Params.toc -}}
         <h4 class="mt-4">{{ "Contents" }}</h4>
@@ -19,3 +20,4 @@
     </div>
   {{ end }}
 </div>
+{{ end }}

@@ -1,7 +1,7 @@
 ---
-title: "The Sins of Nelson - Statues and Our Relationship With the Past"
+title: "George"
 description: 
-date: 2022-02-27T21:38:18Z
+date: 2022-03-03T23:11:42Z
 expiryDate:
 lastmod: 
 author: Goldilocks
@@ -20,12 +20,13 @@ series:
 slug:
 type:
 url:
-article: true
+story: true
 categories:
   - All Content
-  - Articles
+  - Stories
 tags:
-  - Untagged
+  - Spring
+  - In the Time of the Fox
 authors:
   - Goldilocks
 featureImage: ""
@@ -36,4 +37,4 @@ show_reading_time: true
 
 ---
 
-**Insert Lead paragraph here.**
+{{< indent >}}By trade, I am prentice to a blacksmith.
