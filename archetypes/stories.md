@@ -31,6 +31,7 @@ featureImage: ""
 audio: ""
 images: ""
 videos: ""
+show_reading_time: true
 
 ---
 

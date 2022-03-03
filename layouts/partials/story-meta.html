@@ -1,6 +1,10 @@
+{{ $section := .Site.GetPage "section" .Section }}
 <div class="mb-3">
     <small>
         <strong>By {{ if .Params.Author }}{{ .Params.Author }}{{ else }}{{ .Site.Params.Author }}{{ end }}</strong>&nbsp;
-            {{ .Date.Format "2 January 2006" }}
+        | {{ .Date.Format "2 January 2006" }}&nbsp;
+        {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
+            <span> | {{ i18n "readingTime" .ReadingTime }}&nbsp; </span>
+        {{ end }}
     </small>
 </div>
