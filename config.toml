@@ -71,9 +71,3 @@ pattern = "200601"
   [privacy.youtube]
     disable = true
 
-
-
-
-[permalinks]
-  articles = '/:sections/:year/:month/:title/'
-
