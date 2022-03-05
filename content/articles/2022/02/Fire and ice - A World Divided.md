@@ -69,7 +69,7 @@ In addition, the abject public apologies that people, particularly in the US, ar
 
 In all, the way in which our society is tending is grounds for serious concern. If things continue as they are, we will, almost inevitably, end up in a situation where our democracies are eroded by the curtailment of free speach; where a small group of people determine what we are able to say; where truth is silenced in the face of outrage and offense. Culture is a precarious thing, sitting, like Humpty Dumpty, atop the wall of popular opinion, and awaiting the day where it is tipped over the edge to come crashing to the ground. Let us not cause this to happen.  
 
-{{< figure src="/images/fireandice.1.jpg" caption="The Ruin of Society" width="80%" >}}
+{{< figure src="/images/fireandice.1.jpg" caption="The Ruin of Society" width="90%" >}}
 
 ## The Rules of Engagement
 
