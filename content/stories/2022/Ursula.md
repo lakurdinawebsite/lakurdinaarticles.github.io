@@ -55,3 +55,5 @@ show_reading_time: true
 {{< indent >}}As I walk along the street, a young man smiles and greets me, standing at the door of the smith's shop with a hot fiery glow behind him. Being shy, I simply nod in reply and quicken my pace to a jog, feeling his eyes follow me as I go on. I know him by sight, he goes to the church most Sundays, and I have seen him there, but I do not know his name and the fact that he greeted me by mine unnerves me slightly in my still dreamy and apprehensive state.  
 {{< indent >}}Home, and the warm glow of the fire in the hearth, in such contrast to the chilliness of the evening, welcomes me inside. At dinner, I feel dreamy but content, and the soft warmth of my bed welcomes me into its arms like an old returning friend. I lie and think of what has past, but soon am overtaken by sleep.  
 {{< indent >}}Such wonders, and what will tomorrow bring?
+
+For the next installment, click [here](/content/stories/2022/George.md)

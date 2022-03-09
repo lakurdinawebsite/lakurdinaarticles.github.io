@@ -4,7 +4,7 @@ description:
 date: 2022-03-03T23:11:42Z
 expiryDate:
 lastmod: 
-author: Goldilocks
+author: Christina
 cascade:
 menu: main
 aliases:
@@ -37,4 +37,9 @@ show_reading_time: true
 
 ---
 
+*The second installment of Christina's story. Enjoy*
+
 {{< indent >}}By trade, I am prentice to a blacksmith.
+
+
+For the next installment click [here](/content/stories/2022/)
