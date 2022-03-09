@@ -4,7 +4,7 @@ description:
 date: 2022-03-03T19:45:48Z
 expiryDate:
 lastmod: 
-author: Goldilocks
+author: Christina
 cascade:
 menu: main
 aliases:
@@ -36,6 +36,8 @@ videos: ""
 show_reading_time: true
 
 ---
+
+*This is a contributed story, written by Christina. It seems to me to paint an interesting image of our time, but also of every other time. I will say no more, but let you read it. Enjoy*
 
 {{< indent >}}In a time of no importance, a village stood on a hill. From the church tower, looking out over the valleys around, you might, on a good day, have had a spectacular view of rolling undulations, some forested, others crisscrossed by hedges, sloping down to the sea, or rising into further hills on the distant horizon. On Sundays and feast days, a certain proportion of the village would also have been seen making its way from farms and cottages and entering the door below you.  
 {{< indent >}}On one particular day, and on many others, but that holds no significance, what you would not have seen is a girl of about fifteen amongst that crowd. If realising this, you had decided to look for her, you would have found her lying on an old hessian sack beneath the hedge surrounding a field called Charmerie at the south end of the village. She is I, and I was once her.  
