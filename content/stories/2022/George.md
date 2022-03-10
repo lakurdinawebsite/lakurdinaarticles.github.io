@@ -28,7 +28,7 @@ tags:
   - Spring
   - In the Time of the Fox
 authors:
-  - Goldilocks
+  - Christina
 featureImage: ""
 audio: ""
 images: ""
@@ -39,7 +39,7 @@ show_reading_time: true
 
 *The second installment of Christina's story. Enjoy*
 
-{{< indent >}}By trade, I am prentice to a blacksmith.
+{{< indent >}}By trade, I am prentice to a blacksmith. Some say our work is a dying art, but from where I stand within it it feels like all is going strong. We are never short of work: everyone knows that my Master is a true Master of his craft and respect him for it.
 
 
 For the next installment click [here](/content/stories/2022/)
