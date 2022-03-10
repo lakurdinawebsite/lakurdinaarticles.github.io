@@ -28,7 +28,7 @@ tags:
   - Spring
   - In the Time of the Fox
 authors:
-  - Goldilocks
+  - Christina
 featureImage: ""
 audio: ""
 images: ""
