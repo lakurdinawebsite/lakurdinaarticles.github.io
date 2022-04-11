@@ -12,7 +12,9 @@ draft: false
 headless:
 featured: true
 weight:
-keywords: controversies
+keywords:
+  - controversy
+  - politics
 toc: [true]
 menu_contextual: true
 layout:
@@ -23,7 +25,7 @@ url:
 article: true
 categories:
   - All Content
-  - Articles
+  - Politics
 tags:
   - Featured
   - Current Affairs
